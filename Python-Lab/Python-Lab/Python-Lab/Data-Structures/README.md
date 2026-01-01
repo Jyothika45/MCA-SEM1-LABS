@@ -1,4 +1,4 @@
-Python Programming Lab
+Data Structure Programming Lab
 MCA Semester 1
 KTU University
 
